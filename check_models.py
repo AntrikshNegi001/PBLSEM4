@@ -3,7 +3,7 @@ import google.generativeai as genai
 
 # ---------------------------------------------------------
 # 👇 PASTE YOUR API KEY HERE
-API_KEY = "AIzaSyBeIBMSmrP9IoPp6ZwT9gE4CswuMEFdCOw"
+API_KEY = "AIzaSyBz0z_OyXYHYBj71bTjWiJ3tD8VW1HnlU8"
 # ---------------------------------------------------------
 
 try:
