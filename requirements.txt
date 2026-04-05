@@ -2,3 +2,4 @@ Flask==3.0.3
 beautifulsoup4==4.12.3
 undetected-chromedriver==3.5.5
 google-genai==0.3.0
+https://www.amazon.in/Cetaphil-Gentle-Skin-Cleanser-125ml/dp/B01CCGW4OE
